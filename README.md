@@ -13,7 +13,7 @@ Currently exploring: **Cloud Architecture**
 ### Languages
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://freebiesupply.com/logos/kotlin-logo-2/](https://freebiesupply.com/logos/kotlin-logo-2/" alt="Kotlin">
+  <img src="https://faun.pub/7-reasons-to-choose-kotlin-over-java-f0d1b93c7b06" alt="Kotlin">
   <img src="https://img.shields.io/badge/C%20/%20C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++">
   
 </div>
