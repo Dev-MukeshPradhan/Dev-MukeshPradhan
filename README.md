@@ -13,7 +13,7 @@ Currently exploring: **Cloud Architecture**
 ### Languages
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://faun.pub/7-reasons-to-choose-kotlin-over-java-f0d1b93c7b06" alt="Kotlin">
+  <img src="https://logowik.com/content/uploads/images/kotlin.jpg" style="height:27px; width:100px;" alt="Kotlin">
   <img src="https://img.shields.io/badge/C%20/%20C++-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C/C++">
   
 </div>
@@ -21,9 +21,9 @@ Currently exploring: **Cloud Architecture**
 ### Mobile Development
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://blog.devgenius.io/jetpack-compose-clean-and-encapsulated-composables-2dc042b423e" alt="Jetpack Compose">
-  <img src="https://medium.com/@rushabhprajapati20/mastering-kotlin-coroutines-in-android-8457a6e5dd12" alt="Coroutines">
-  <img src="https://medium.com/@ananyavhegde2001/i-tried-supabase-for-my-side-project-and-now-im-never-going-back-a216d448bb69" alt="Supabase">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1gYNR7nVgd7BzLgeVcSQ1Zu2uhqbW7DTmgQ&s" style="height:27px; width:100px;" alt="Jetpack Compose">
+  <img src="https://ac.appcircle.io/wp-content/uploads/2022/09/coroutines-banner.png" style="height:27px; width:100px;" alt="Coroutines">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHBHKcVpbVhM7bj_xj8L3sGs-kBHnzeHJ9Tw&s" style="height:27px; width:100px;" alt="Supabase">
   
 </div>
 
@@ -36,8 +36,8 @@ Currently exploring: **Cloud Architecture**
 
 ### Databases
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px;">
-  <img src="https://medium.com/@zorbeytorunoglu/room-database-for-android-basics-d7167c689108" alt="Room Database">
-    <img src="https://firebase.google.com/brand-guidelines" alt="Firebase">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFZKZiZcExNGc3kqneG34vv9QX-kMI4z-SzA&s" style="height:27px; width:100px;" alt="Room Database">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAzkdERaBp1vu25S34uBYXD1DjyMY32ulyQ&s" style="height:27px; width:100px;" alt="Firebase">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
